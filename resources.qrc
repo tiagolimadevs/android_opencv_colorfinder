@@ -1,0 +1,11 @@
+<!DOCTYPE RCC>
+<RCC>
+	<qresource>
+		<file alias="main.qml">./qml/main.qml</file>
+		<file alias="Button.qml">./qml/Button.qml</file>
+		<file alias="MySlider.qml">./qml/MySlider.qml</file>
+		<file alias="ColorChanger.qml">./qml/ColorChanger.qml</file>
+		<file alias="ShowType.qml">./qml/ShowType.qml</file>
+		
+	</qresource>
+</RCC>
